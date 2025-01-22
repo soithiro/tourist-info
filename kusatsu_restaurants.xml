@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+    <restaurant>
+        <name>草津名物うどん</name>
+        <address>群馬県草津町123</address>
+        <url>https://example.com/kusatsu_udon</url>
+    </restaurant>
+    <restaurant>
+        <name>温泉そば亭</name>
+        <address>群馬県草津町456</address>
+        <url>https://example.com/onsen_soba</url>
+    </restaurant>
+</restaurants>
